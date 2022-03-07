@@ -1,0 +1,13 @@
+.img_url{
+    height:20px;
+    width:20px;
+    background-size: contain; 
+    max-height:20px;
+    border-radius: 100px;
+}
+.img_td{
+    width:10% !important;
+}
+.img_url{
+    width:95% !important;
+}
